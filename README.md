@@ -2,7 +2,7 @@
 
 ![Image of CardClock 2.0](images/front.jpg)
 
-This is a certified Open Source Hardware ([OSHW US002055](https://certification.oshwa.org/us002055.html)) clock that you are going to love. It is the successor to the original [CardClock 1.0](github.com/foxieproducts/cardclock) and is much more than the sum of its parts, including innovative features like built-in online firmware updates, a modern 160Mhz RISC-V processor that has WiFi (and BLE, though not yet supported), lots of configurability, time memory, light level awareness, and much, much more. 
+This is a certified Open Source Hardware ([OSHW US002055](https://certification.oshwa.org/us002055.html)) clock that you are going to love. It is the successor to the original [CardClock 1.0](https://github.com/foxieproducts/cardclock) and is much more than the sum of its parts, including innovative features like built-in online firmware updates, a modern 160Mhz RISC-V processor that has WiFi (and BLE, though not yet supported), lots of configurability, time memory, light level awareness, and much, much more. 
 
 There are 3 rings of 12 LEDs at the left side of the PCB, which are used to display Hours, Minutes and Seconds. The Minutes and Seconds display with a 5 minute/second resolution.
 
